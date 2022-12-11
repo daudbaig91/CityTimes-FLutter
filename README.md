@@ -1,3 +1,3 @@
 # testapp
 
-My First FLutter learning App;
+My First Flutter learning App;
