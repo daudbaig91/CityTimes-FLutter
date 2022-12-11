@@ -1,3 +1,3 @@
-# testapp
+# CityTimeShower
 
 My First Flutter learning App;
