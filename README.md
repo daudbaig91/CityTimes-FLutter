@@ -5,6 +5,7 @@ My First Flutter learning App;
 
 A basic FLutter app that shows the times in different cities using an api.
 
+Thanks for reading; // ;)
 
 ###### With a day or night screen showing the time in the city
 
